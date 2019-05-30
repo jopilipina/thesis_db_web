@@ -1,0 +1,29 @@
+{
+    "text": "Our results suggest that SGK1 dynamics could play an important role in cell signaling, which is capable of directly influencing NSCLC cellular fate decisions.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 25, 
+                "end": 29
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 128, 
+                "end": 133
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "associated", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

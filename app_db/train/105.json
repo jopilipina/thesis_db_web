@@ -1,0 +1,29 @@
+{
+    "text": "The lncRNA HOTTIP can be considered a prognostic biomarker in early-stage NSCLC.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 11, 
+                "end": 17
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 74, 
+                "end": 79
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "prognostic", 
+            "subj": "T2", 
+            "obj": "T1"
+        }
+    ]
+}

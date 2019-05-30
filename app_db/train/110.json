@@ -1,0 +1,29 @@
+{
+    "text": "Thus, LIPI was not a specific biomarker for ICI therapy, but a useful biomarker for chemotherapy and EGFR-TKI therapy in specific subsets of NSCLC.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 6, 
+                "end": 10
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 141, 
+                "end": 146
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "therapeutic", 
+            "subj": "T2", 
+            "obj": "T1"
+        }
+    ]
+}

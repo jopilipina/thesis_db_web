@@ -1,0 +1,29 @@
+{
+    "text": "The results of the present study suggest that Wrap53a may serve a role in the pathogenesis of a subset of lung cancer, and its methylation may be considered to be a prognostic marker for surgically resected NSCLC patients.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 46, 
+                "end": 54
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 208, 
+                "end": 213
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "prognostic", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

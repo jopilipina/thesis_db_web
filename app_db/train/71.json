@@ -1,0 +1,59 @@
+{
+    "text": "Our work demonstrates a tumor suppressive role of SIRT1 in the development of K-RAS-driven lung adenocarcinomas in mice and humans, suggesting that the SIRT1-K-RAS axis could be a therapeutic target for NSCLCs.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 50, 
+                "end": 55
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "gene", 
+            "span": {
+                "begin": 78, 
+                "end": 83
+            }
+        }, 
+        {
+            "id": "T3", 
+            "obj": "disease", 
+            "span": {
+                "begin": 91, 
+                "end": 111
+            }
+        }, 
+        {
+            "id": "T4", 
+            "obj": "gene", 
+            "span": {
+                "begin": 152, 
+                "end": 163
+            }
+        }, 
+        {
+            "id": "T5", 
+            "obj": "disease", 
+            "span": {
+                "begin": 203, 
+                "end": 209
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "therapeutic", 
+            "subj": "T1", 
+            "obj": "T3"
+        },
+        {
+            "id": "R2", 
+            "pred": "therapeutic", 
+            "subj": "T4", 
+            "obj": "T5"
+        }
+    ]
+}

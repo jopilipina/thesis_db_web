@@ -1,0 +1,29 @@
+{
+    "text": "Suppressing autophagy might be a promising therapeutic option to enhance the efficacy of Fhit gene therapy in NSCLC.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 89, 
+                "end": 93
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 110, 
+                "end": 115
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "therapeutic", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

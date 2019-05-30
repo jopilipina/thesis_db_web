@@ -1,0 +1,29 @@
+{
+    "text": "Specifically, tumors harboring TP53 mutations, which can impair epithelial function, have a unique bacterial consortium that is higher in relative abundance in smoking-associated tumors of this type.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 31, 
+                "end": 35
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 160, 
+                "end": 185
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "predictive", 
+            "subj": "T2", 
+            "obj": "T1"
+        }
+    ]
+}

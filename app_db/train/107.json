@@ -1,0 +1,29 @@
+{
+    "text": "Biomarkers, such as PD-L1 and the tumor mutation burden (TMB), enable better selection of patients who should benefit the most from first-line ICI use in NSCLC.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 20, 
+                "end": 25
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 154, 
+                "end": 159
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "therapeutic", 
+            "subj": "T2", 
+            "obj": "T1"
+        }
+    ]
+}

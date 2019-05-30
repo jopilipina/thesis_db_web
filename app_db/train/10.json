@@ -1,0 +1,29 @@
+{
+    "text": "This indicates a significant correlation between IL-6 overexpression and cancer development, highlighting the significance of IL-6 in oral, lung, esophageal, and gallbladder carcinomas.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 49, 
+                "end": 53
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 174, 
+                "end": 184
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "relation", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

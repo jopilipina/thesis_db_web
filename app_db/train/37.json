@@ -1,0 +1,43 @@
+{
+    "text": "Targeting BCL-xL and MCL-1 is an attractive strategy for improving lung cancer radiotherapy.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 10, 
+                "end": 16
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "gene", 
+            "span": {
+                "begin": 21, 
+                "end": 26
+            }
+        }, 
+        {
+            "id": "T3", 
+            "obj": "disease", 
+            "span": {
+                "begin": 67, 
+                "end": 78
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "therapeutic", 
+            "subj": "T1", 
+            "obj": "T3"
+        },
+        {
+            "id": "R2", 
+            "pred": "therapeutic", 
+            "subj": "T2", 
+            "obj": "T3"
+        }
+    ]
+}

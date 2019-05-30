@@ -1,0 +1,43 @@
+{
+    "text": "We concluded that enhancement of the cytotoxicity to CDDP by coadminstration with DMC was mediated by down-regulation of the expression of TP and ERCC1, regulated by PI3K-Akt-Snail pathway inactivation in NSCLC.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 139, 
+                "end": 141
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "gene", 
+            "span": {
+                "begin": 146, 
+                "end": 151
+            }
+        }, 
+        {
+            "id": "T3", 
+            "obj": "NSCLC", 
+            "span": {
+                "begin": 205, 
+                "end": 210
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "prognostic", 
+            "subj": "T1", 
+            "obj": "T3"
+        },
+        {
+            "id": "R2", 
+            "pred": "prognostic", 
+            "subj": "T2", 
+            "obj": "T3"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "text": "Ehm2/1 may function as a putative tumor suppressor in the disease progression of lung adenocarcinoma, while Ehm2/2 may have an opposite function.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 0, 
+                "end": 6
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 81, 
+                "end": 100
+            }
+        }, 
+        {
+            "id": "T3", 
+            "obj": "gene", 
+            "span": {
+                "begin": 108, 
+                "end": 114
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "therapeutic", 
+            "subj": "T1", 
+            "obj": "T2"
+        },
+        {
+            "id": "R2", 
+            "pred": "therapeutic", 
+            "subj": "T3", 
+            "obj": "T2"
+        }
+    ]
+}

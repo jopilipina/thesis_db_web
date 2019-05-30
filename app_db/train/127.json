@@ -1,0 +1,29 @@
+{
+    "text": "p53 codon 72 polymorphism could play a role as a prognostic marker in lung cancer patients.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 0, 
+                "end": 3
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 70, 
+                "end": 81
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "prognostic", 
+            "subj": "T2", 
+            "obj": "T1"
+        }
+    ]
+}

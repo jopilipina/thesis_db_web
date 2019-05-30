@@ -1,0 +1,29 @@
+{
+    "text": "Meanwhile, BRD9 expression is up-regulated and negatively correlated with miR-140-3p in clinical samples; a meta-analysis of survival data indicates that SqCLC patients with high levels of BRD9 in their tumors have a worse prognosis.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 11, 
+                "end": 15
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 154, 
+                "end": 160
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "prognostic", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

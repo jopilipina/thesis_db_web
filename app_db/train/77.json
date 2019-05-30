@@ -1,0 +1,29 @@
+{
+    "text": "Significant increase in expression of LUNX gene in NSCLC indicates an association between anthracosis and NSCLC, according to which, anthracotic patients may carry a high risk for NSCLC.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 38, 
+                "end": 42
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 51, 
+                "end": 56
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "prognostic", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

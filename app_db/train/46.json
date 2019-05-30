@@ -1,0 +1,43 @@
+{
+    "text": "Inhibition of BRD9 repressed SqCLC tumorigenesis by regulating c-myc expression.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 14, 
+                "end": 18
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 29, 
+                "end": 34
+            }
+        }, 
+        {
+            "id": "T3", 
+            "obj": "gene", 
+            "span": {
+                "begin": 63, 
+                "end": 68
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "therapeutic", 
+            "subj": "T1", 
+            "obj": "T2"
+        },
+        {
+            "id": "R2", 
+            "pred": "therapeutic", 
+            "subj": "T3", 
+            "obj": "T2"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "text": "PADI4 -mediated EMT transition is proposed to represent a novel mechanism underlying the epigenetic and phenotypic alterations in lung cancer cells, and the PADI4 associated signaling pathway may be a therapeutic target for treating lung cancer in a clinical setting.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 0, 
+                "end": 5
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 130, 
+                "end": 141
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "therapeutic", 
+            "subj": "T2", 
+            "obj": "T1"
+        }
+    ]
+}

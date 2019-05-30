@@ -1,0 +1,29 @@
+{
+    "text": "The transcript level of PRAL was decreased in lung cancer in vivo and in vitro.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 24, 
+                "end": 28
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 46, 
+                "end": 57
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "associated", 
+            "subj": "T2", 
+            "obj": "T1"
+        }
+    ]
+}

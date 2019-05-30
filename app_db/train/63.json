@@ -1,0 +1,29 @@
+{
+    "text": "ARHGAP30 suppressed lung cancer cell proliferation, migration, and invasion through inhibition of the Wnt/b-catenin signaling pathway.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 0, 
+                "end": 8
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 20, 
+                "end": 31
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "therapeutic", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

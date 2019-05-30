@@ -1,0 +1,29 @@
+{
+    "text": "FHIT hypermethylation, which induces the inactivation of FHIT gene, plays an important role in the carcinogenesis and clinical outcome and may serve as a potential drug target of NSCLC.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 0, 
+                "end": 4
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 179, 
+                "end": 184
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "therapeutic", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

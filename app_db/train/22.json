@@ -1,0 +1,29 @@
+{
+    "text": "These findings reveal that WDR79 is a novel UHRF1 regulator by maintaining UHRF1 stability, and they also provide a clue as to how to explore WDR79 for potential therapeutic application in NSCLC.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 27, 
+                "end": 32
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 189, 
+                "end": 194
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "therapeutic", 
+            "subj": "T2", 
+            "obj": "T1"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "text": "Moreover, the non-adenocarcinoma (SCLC) component might arise from the adenocarcinoma (NSCLC) component through a mechanism that involves the activation of the ASCL1 and PI3K/AKT1 signaling pathways.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "disease", 
+            "span": {
+                "begin": 34, 
+                "end": 38
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 87, 
+                "end": 92
+            }
+        }, 
+        {
+            "id": "T3", 
+            "obj": "gene", 
+            "span": {
+                "begin": 160, 
+                "end": 165
+            }
+        }, 
+        {
+            "id": "T4", 
+            "obj": "gene", 
+            "span": {
+                "begin": 170, 
+                "end": 178
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "associated", 
+            "subj": "T1", 
+            "obj": "T2"
+        },
+        {
+            "id": "R2", 
+            "pred": "associated", 
+            "subj": "T1", 
+            "obj": "T3"
+        },
+        {
+            "id": "R3", 
+            "pred": "associated", 
+            "subj": "T1", 
+            "obj": "T4"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "text": "FHIT loss may therefore be used as an early indicator for lung cancer, particularly for patients with a history of smoking.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 0, 
+                "end": 3
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 58, 
+                "end": 68
+            }
+        }
+    ],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"diagnostic",
+            "subj":"T1", 
+            "obj":"T2"
+        }
+    ]
+}

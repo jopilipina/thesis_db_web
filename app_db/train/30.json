@@ -1,0 +1,29 @@
+{
+    "text": "Differences in FHIT promoter methylation between cancer patients with and without node infiltration might be considered as a prognostic marker.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 15, 
+                "end": 19
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 49, 
+                "end": 55
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "prognostic", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

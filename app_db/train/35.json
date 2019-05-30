@@ -1,0 +1,29 @@
+{
+    "text": "Our study demonstrates a new JQ-1/ABT-263 co-targeting strategy that can be employed for MYCN-amplified SCLC with high efficacy.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 29, 
+                "end": 41
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 104, 
+                "end": 108
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "therapeutic", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

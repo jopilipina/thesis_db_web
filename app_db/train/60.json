@@ -1,0 +1,53 @@
+{
+    "text": "The present study provides strong evidence that the bcl-2 gene has a suppressive function over genes involved in both angiogenesis (VEGF and TP) and cell migration (c-erbB-2) in NSCLC.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 52, 
+                "end": 57
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "gene", 
+            "span": {
+                "begin": 132, 
+                "end": 136
+            }
+        }, 
+        {
+            "id": "T3", 
+            "obj": "gene", 
+            "span": {
+                "begin": 141, 
+                "end": 143
+            }
+        }, 
+        {
+            "id": "T4", 
+            "obj": "gene", 
+            "span": {
+                "begin": 165, 
+                "end": 173
+            }
+        }, 
+        {
+            "id": "T5", 
+            "obj": "disease", 
+            "span": {
+                "begin": 178, 
+                "end": 183
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "associated", 
+            "subj": "T1", 
+            "obj": "T5"
+        }
+    ]
+}

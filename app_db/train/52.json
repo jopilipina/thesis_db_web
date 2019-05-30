@@ -1,0 +1,113 @@
+{
+    "text": "Our results showed that 7 hypermethylated genes (including CDKN2A, RASSF1, MGMT, RARB, DAPK, WIF1 and FHIT) were significantly associated with the smoking behavior in NSCLC patients.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 59, 
+                "end": 65
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "gene", 
+            "span": {
+                "begin": 67, 
+                "end": 73
+            }
+        }, 
+        {
+            "id": "T3", 
+            "obj": "gene", 
+            "span": {
+                "begin": 75, 
+                "end": 79
+            }
+        }, 
+        {
+            "id": "T4", 
+            "obj": "gene", 
+            "span": {
+                "begin": 81, 
+                "end": 85
+            }
+        }, 
+        {
+            "id": "T5", 
+            "obj": "gene", 
+            "span": {
+                "begin": 87, 
+                "end": 91
+            }
+        }, 
+        {
+            "id": "T6", 
+            "obj": "gene", 
+            "span": {
+                "begin": 93, 
+                "end": 97
+            }
+        }, 
+        {
+            "id": "T7", 
+            "obj": "gene", 
+            "span": {
+                "begin": 102, 
+                "end": 106
+            }
+        }, 
+        {
+            "id": "T8", 
+            "obj": "disease", 
+            "span": {
+                "begin": 167, 
+                "end": 172
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "associated", 
+            "subj": "T1", 
+            "obj": "T8"
+        },
+        {
+            "id": "R2", 
+            "pred": "associated", 
+            "subj": "T2", 
+            "obj": "T8"
+        },
+        {
+            "id": "R3", 
+            "pred": "associated", 
+            "subj": "T3", 
+            "obj": "T8"
+        },
+        {
+            "id": "R4", 
+            "pred": "associated", 
+            "subj": "T4", 
+            "obj": "T8"
+        },
+        {
+            "id": "R5", 
+            "pred": "associated", 
+            "subj": "T5", 
+            "obj": "T8"
+        },
+        {
+            "id": "R6", 
+            "pred": "associated", 
+            "subj": "T6", 
+            "obj": "T8"
+        },
+        {
+            "id": "R7", 
+            "pred": "associated", 
+            "subj": "T7", 
+            "obj": "T8"
+        }
+    ]
+}

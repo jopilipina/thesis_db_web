@@ -1,0 +1,29 @@
+{
+    "text": "This suggests that SCU may be developed into a promising antitumor agent for treating NSCLC.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 19, 
+                "end": 24
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 86, 
+                "end": 91
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "therapeutic", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "text": "The study demonstrated that the clinical characteristics of patients with PD-L1 expression may differ from those of patients with PD-L2 expression, and that both might contribute to poor prognoses in NSCLC.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 74, 
+                "end": 79
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "gene", 
+            "span": {
+                "begin": 130, 
+                "end": 135
+            }
+        }, 
+        {
+            "id": "T3", 
+            "obj": "disease", 
+            "span": {
+                "begin": 200, 
+                "end": 205
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "prognostic", 
+            "subj": "T1", 
+            "obj": "T3"
+        },
+        {
+            "id": "R2", 
+            "pred": "prognostic", 
+            "subj": "T2", 
+            "obj": "T3"
+        }
+    ]
+}

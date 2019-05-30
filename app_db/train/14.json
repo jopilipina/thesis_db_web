@@ -1,0 +1,29 @@
+{
+    "text": "Collectively, these results indicated that p53 may contribute to the cytotoxic and cytostatic effects associated with establishing a feedback loop with ROS induced by erastin in lung cancer.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 43, 
+                "end": 46
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 178, 
+                "end": 189
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "associated", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

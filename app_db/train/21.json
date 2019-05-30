@@ -1,0 +1,45 @@
+{
+    "text": "NKX2-1 expression impacts prognosis in early-stage NSCLC patients, particularly in those with neither TP53 nor KRAS mutations.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 0, 
+                "end": 6
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 51, 
+                "end": 56
+            }
+        }, 
+        {
+            "id": "T3", 
+            "obj": "gene", 
+            "span": {
+                "begin": 102, 
+                "end": 106
+            }
+        }, 
+        {
+            "id": "T4", 
+            "obj": "gene", 
+            "span": {
+                "begin": 111, 
+                "end": 115
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "prognostic", 
+            "subj": "T2", 
+            "obj": "T1"
+        }
+    ]
+}

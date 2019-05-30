@@ -1,0 +1,29 @@
+{
+    "text": "L1RE1 in combination with either RARB or RASSF1 could function as biomarkers for separating lung cancer and non-cancerous tissue and could be useful for samples of limited size such as biopsies.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 0, 
+                "end": 5
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 92, 
+                "end": 103
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "associated", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

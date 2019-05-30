@@ -1,0 +1,29 @@
+{
+    "text": "In conclusion, in the appropriate morphological context p16 represents a useful supplementary marker for diagnosis of SCLC, even in cases where only cytological material is available.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 56, 
+                "end": 58
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 118, 
+                "end": 121
+            }
+        }
+    ],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"diagnostic",
+            "subj":"T2", 
+            "obj":"T1"
+        }
+    ]
+}

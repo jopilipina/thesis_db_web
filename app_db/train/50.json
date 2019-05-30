@@ -1,0 +1,29 @@
+{
+    "text": "Therefore, the AKT inhibitor perifosine might potentially overcome the resistance to cisplatin-based chemotherapy in NSCLC patients with low-FHIT tumors, and consequently improve the outcome.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 15, 
+                "end": 18
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 117, 
+                "end": 122
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "therapeutic", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

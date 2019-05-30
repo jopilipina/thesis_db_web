@@ -1,0 +1,29 @@
+{
+    "text": "Our data imply that inactivation of TP53/RB1 function is a possible early event in the histogenesis of synchronous and metachronous SCLC/NSCLC.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 36, 
+                "end": 44
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 132, 
+                "end": 143
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "associated", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

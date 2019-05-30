@@ -1,0 +1,85 @@
+{
+    "text": "In addition, the four crucial genes CCNB1, CCNB2, MAD2L1 and CDK1, which are downstream of p53, may have important roles in the occurrence and progression of SCLC, and thus may be promising potential biomarkers and therapeutic targets.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 36, 
+                "end": 41
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "gene", 
+            "span": {
+                "begin": 43, 
+                "end": 48
+            }
+        }, 
+        {
+            "id": "T3", 
+            "obj": "gene", 
+            "span": {
+                "begin": 50, 
+                "end": 56
+            }
+        }, 
+        {
+            "id": "T4", 
+            "obj": "gene", 
+            "span": {
+                "begin": 61, 
+                "end": 65
+            }
+        }, 
+        {
+            "id": "T5", 
+            "obj": "gene", 
+            "span": {
+                "begin": 91, 
+                "end": 94
+            }
+        }, 
+        {
+            "id": "T6", 
+            "obj": "SCLC", 
+            "span": {
+                "begin": 158, 
+                "end": 162
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "associated", 
+            "subj": "T1", 
+            "obj": "T6"
+        },
+        {
+            "id": "R2", 
+            "pred": "associated", 
+            "subj": "T2", 
+            "obj": "T6"
+        },
+        {
+            "id": "R3", 
+            "pred": "associated", 
+            "subj": "T3", 
+            "obj": "T6"
+        },
+        {
+            "id": "R4", 
+            "pred": "associated", 
+            "subj": "T4", 
+            "obj": "T6"
+        },
+        {
+            "id": "R5", 
+            "pred": "associated", 
+            "subj": "T5", 
+            "obj": "T6"
+        }
+    ]
+}

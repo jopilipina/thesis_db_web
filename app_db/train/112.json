@@ -1,0 +1,29 @@
+{
+    "text": "Radiotherapy enhances responses of lung cancer to CTLA-4 blockade.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "disease", 
+            "span": {
+                "begin": 35, 
+                "end": 46
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "gene", 
+            "span": {
+                "begin": 50, 
+                "end": 56
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "therapeutic", 
+            "subj": "T2", 
+            "obj": "T1"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "text": "PD-L1 immunohistochemical assessment may be used for the selection of patients legible for treatment with anti-PD-L1 therapy in non-small cell lung cancer.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 0, 
+                "end": 5
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 128, 
+                "end": 154
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "prognostic", 
+            "subj": "T2", 
+            "obj": "T1"
+        }
+    ]
+}

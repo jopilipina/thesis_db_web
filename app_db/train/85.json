@@ -1,0 +1,29 @@
+{
+    "text": "Finally, we showed that the high expression of HOTAIR was associated with resistance to gefitinib through the dysregulated cell cycle in lung cancer", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 47, 
+                "end": 53
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 137, 
+                "end": 148
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "prognostic", 
+            "subj": "T2", 
+            "obj": "T1"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "text": "Blood E2F3 mRNA is a sensitive diagnostic marker in lung cancer.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "E2F3", 
+            "span": {
+                "begin": 6, 
+                "end": 10
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "lung cancer", 
+            "span": {
+                "begin": 52, 
+                "end": 63
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "prognostic", 
+            "subj": "T2", 
+            "obj": "T1"
+        }
+    ]
+}

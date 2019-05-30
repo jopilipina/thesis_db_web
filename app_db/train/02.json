@@ -1,0 +1,29 @@
+{
+    "text": "Our study indicated that genetic variations in miR-125 family were implicated in the survival of NSCLC patients.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 47, 
+                "end": 53
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 97, 
+                "end": 101
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "prognostic", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

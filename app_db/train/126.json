@@ -1,0 +1,29 @@
+{
+    "text": "Our results suggest that the combination of low dose cisplatin and scriptaid is cytotoxic to NSCLC lines, can overcome hypoxia induced resistance and mutant p53- induced instability often associated with this cancer, and has the potential to be an effective therapeutic modality.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "disease", 
+            "span": {
+                "begin": 93, 
+                "end": 98
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "gene", 
+            "span": {
+                "begin": 157, 
+                "end": 160
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "therapeutic", 
+            "subj": "T2", 
+            "obj": "T1"
+        }
+    ]
+}

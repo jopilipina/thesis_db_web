@@ -1,0 +1,28 @@
+{
+    "text": "The potential role of PD-L2 expression as a predictive biomarker for response to immunotherapy should be investigated in future studies in NSCLC.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 22, 
+                "end": 25
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 139, 
+                "end": 142
+            }
+        }
+    ],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"predictive",
+            "subj":"T2", 
+          "obj":"T1"}
+    ]
+}

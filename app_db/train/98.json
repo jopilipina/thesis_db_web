@@ -1,0 +1,29 @@
+{
+    "text": "ING5 inhibits lung cancer invasion and EMT by inhibiting the WNT/b-catenin pathway.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 0, 
+                "end": 4
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 14, 
+                "end": 25
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "associated", 
+            "subj": "T2", 
+            "obj": "T1"
+        }
+    ]
+}

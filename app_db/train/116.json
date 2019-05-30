@@ -1,0 +1,29 @@
+{
+    "text": "p53 loss does not permit escape from BrafV600E-induced senescence in a mouse model of lung cancer.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 0, 
+                "end": 3
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 86, 
+                "end": 97
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "associated", 
+            "subj": "T2", 
+            "obj": "T1"
+        }
+    ]
+}

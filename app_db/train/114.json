@@ -1,0 +1,29 @@
+{
+    "text": "Taken together, our study indicate variable expression and clinical role of B7-family ligands in SCLC with predominant expression of the candidate target B7-H3 and the presence of a limited cytotoxic anti-tumor immune response.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "B7", 
+            "span": {
+                "begin": 76, 
+                "end": 78
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 97, 
+                "end": 101
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "therapeutic", 
+            "subj": "T2", 
+            "obj": "T1"
+        }
+    ]
+}

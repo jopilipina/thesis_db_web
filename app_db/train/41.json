@@ -1,0 +1,57 @@
+{
+    "text": "Overall, our study indicated that DA suppressed lung cancer cells proliferation via inducing cell-cycle arrest and enhancing caspase-dependent apoptosis, at least partly, through ROS-mediated PI3K/AKT, MAPK and NF-kB signaling pathways.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "disease", 
+            "span": {
+                "begin": 48, 
+                "end": 59
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "gene", 
+            "span": {
+                "begin": 192, 
+                "end": 200
+            }
+        }, 
+        {
+            "id": "T3", 
+            "obj": "gene", 
+            "span": {
+                "begin": 202, 
+                "end": 206
+            }
+        }, 
+        {
+            "id": "T4", 
+            "obj": "gene", 
+            "span": {
+                "begin": 211, 
+                "end": 216
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "therapeutic", 
+            "subj": "T1", 
+            "obj": "T2"
+        },
+        {
+            "id": "R2", 
+            "pred": "therapeutic", 
+            "subj": "T1", 
+            "obj": "T3"
+        },
+        {
+            "id": "R3", 
+            "pred": "therapeutic", 
+            "subj": "T1", 
+            "obj": "T4"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "text": "This study showed that LPCAT1 works as a regulator of cell metastasis and may serve as a novel therapeutic target for BM in lung adenocarcinoma.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 23, 
+                "end": 29
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 124, 
+                "end": 143
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "therapeutic", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "text": "We found that flavopiridol and dinaciclib induced cytotoxicity by enhancing apoptosis in CDKN2A-defective SqCLC cells, and that epithelial to mesenchymal transition (EMT) decreased and autophagy increased during this process.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 89, 
+                "end": 96
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 106, 
+                "end": 112
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "therapeutic", 
+            "subj": "T2", 
+            "obj": "T1"
+        }
+    ]
+}

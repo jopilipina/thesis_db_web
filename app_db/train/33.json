@@ -1,0 +1,29 @@
+{
+    "text": "CONCLUSION: These findings provide a novel mechanism indicating the inhibition of TOPO II activity and NF-kB signaling by NFD, leading to DNA damage and apoptosis of NSCLC tumor cells.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 103, 
+                "end": 108
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 166, 
+                "end": 171
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "therapeutic", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

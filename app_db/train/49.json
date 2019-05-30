@@ -1,0 +1,29 @@
+{
+    "text": "Our findings indicated that BIN1 restoration in NSCLC could reverse PD-L1-mediated immune escape by inactivating the c-MYC and EGFR/mitogen-activated protein kinase pathways.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 28, 
+                "end": 32
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 48, 
+                "end": 53
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "prognostic", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

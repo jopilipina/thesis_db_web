@@ -1,0 +1,29 @@
+{
+    "text": "Our findings provide us with new insights regarding the mechanism by which p53 mediates A549 apoptosis and may cast light on the development of more efficient p53-based strategies for treating lung cancer.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 75, 
+                "end": 78
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 193, 
+                "end": 204
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "therapeutic", 
+            "subj": "T2", 
+            "obj": "T1"
+        }
+    ]
+}

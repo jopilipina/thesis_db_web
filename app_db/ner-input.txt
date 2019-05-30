@@ -1,0 +1,200 @@
+TEST
+These results indicated that UBA2 was a critical cell cycle and proliferation regulator and may be a novel cancer marker in this malignant tumor.
+TEST
+Our study indicated that genetic variations in miR-125 family were implicated in the survival of NSCLC patients.
+TEST
+These findings suggest that the TSC1 gene variant is an important predictive marker for platinum doublet chemotherapy outcomes in NSCLC patients.
+TEST
+Expression of hUTP14a was up-regulated in NSCLC tissues and was correlated with pTNM stage of SCC, suggesting that hUTP14a might possess a potential as a candidate marker for the early diagnosis screening of NSCLC.
+TEST
+ZWINT may be a novel target for lung cancer therapy.
+TEST
+P53 mutations are potential prognostic markers that can be used to further improve the accuracy of predicting survival and disease-free survival times of cancer patients.
+TEST
+DEGs, including AURKB, BUB1B, KIF2C, HMMR, CENPF, and CENPU, might be potential biomarkers for the prognosis and treatment of lung adenocarcinoma.
+TEST
+The results of the present study suggest that Wrap53α may serve a role in the pathogenesis of a subset of lung cancer, and its methylation may be considered to be a prognostic marker for surgically resected NSCLC patients. However, further studies with a larger sample size are required to confirm this finding.
+TEST
+Our study demonstrates that LINC00342 is involved in the development, and LINC00342 may be a potential diagnostic factor and a target for new therapies for future patients with NSCLC.
+TEST
+This indicates a significant correlation between IL-6 overexpression and cancer development, highlighting the significance of IL-6 in oral, lung, esophageal, and gallbladder carcinomas. IL-6 may be used as a tumor marker for cancer diagnosis. It may be a clinically significant predictor and may represent a target for cancer treatment. However, to definitely conclude this, further extensive studies would be required.
+TEST
+The results of this comprehensive study show both microbiome-gene and microbiome-exposure interactions in squamous cell carcinoma lung cancer tissue. Specifically, tumors harboring TP53 mutations, which can impair epithelial function, have a unique bacterial consortium that is higher in relative abundance in smoking-associated tumors of this type. Given the significant need for clinical diagnostic tools in lung cancer, this study may provide novel biomarkers for early detection.
+TEST
+Collectively, these results indicated that p53 may contribute to the cytotoxic and cytostatic effects associated with establishing a feedback loop with ROS induced by erastin.
+TEST
+The different immunohistochemical expressions of these 2 kinds of SCCs may be related with their pathogenetic mechanism, and these differences may be helpful in the identification of the origins of the metastatic SCC with unknown primary site.
+TEST
+The findings indicated that the positive mutation rate of EGFR tested by NGS was significantly lower than that by Sanger sequencing, but the difference between ddPCR and NGS was not statistically significant. The high degree of agreement of reportable variants is proposed in both NGS and ddPCR analysis, suggesting the performance of NGS assays in routine clinical detection may be useful in determining the treatment decisions in NSCLC patients.
+TEST
+The tumor's cellularity, the Ki-67 positivity rate and PCNA, together with the clinical stage and the histological differentiation bring extra pieces of useful information in order to anticipate the evolution and the prognosis of lung cancer.
+TEST
+We propose a role as early prognostic biomarkers for pERK protein levels in adenocarcinoma, and for nuclear p53 levels in squamous cell lung carcinoma. The determination of these potential biomarkers in the adequate histologic context may predict the outcome of early stage NSCLC patients, and may offer a therapeutic opportunity to enhance survival of these patients.
+TEST
+The present study indicated that the formation of SCLC may be associated with cell cycle regulation. In addition, the four crucial genes CCNB1, CCNB2, MAD2L1 and CDK1, which are downstream of p53, may have important roles in the occurrence and progression of SCLC, and thus may be promising potential biomarkers and therapeutic targets.
+TEST
+We also identified the expression level of SGK1 and the p53 pathway including downstream apoptotic proteins under the stimulation of γ-radiation and SGK1 inhibitor GSK650394, which presented a series of dynamic fluctuations. Our results suggest that SGK1 dynamics could play an important role in cell signaling, which is capable of directly influencing NSCLC cellular fate decisions.
+TEST
+The expression of p53R2 was inversely associated with the proliferation and progression of LSC, and the results indicated that the high expression of p53R2 was an independent factor for unfavorable prognosis of patients with LSC.
+TEST
+NKX2-1 expression impacts prognosis in early-stage NSCLC patients, particularly in those with neither TP53 nor KRAS mutations
+TEST
+This is the first study to demonstrate that chidamide induces miR-129-3p upregulation and ROS accumulation, leading to cell cycle arrest in NSCLC.
+TEST
+A more detailed mechanistic study revealed that PT-induced senescence partially occurred via a p53-dependent mechanism, triggering inhibition of telomerase activity and protein expression, and leading to the DDR, S phase arrest and, finally, cellular senescence in NSCLC.
+TEST
+These findings reveal that WDR79 is a novel UHRF1 regulator by maintaining UHRF1 stability, and they also provide a clue as to how to explore WDR79 for potential therapeutic application in NSCLC.
+TEST
+Suppressing autophagy might be a promising therapeutic option to enhance the efficacy of Fhit gene therapy in NSCLC.
+TEST
+Hypomethylation of L1RE1 is frequent in tumors compared to benign controls and associates with higher grade, whereas increasing methylation of RARB is an independent marker for tumors and higher grade. RASSF1 hypermethylation was frequent in tumors and most prominent in NET making it an auxiliary marker for separation of NSCLC and NET. L1RE1 in combination with either RARB or RASSF1 could function as biomarkers for separating lung cancer and non-cancerous tissue and could be useful for samples of limited size such as biopsies.
+TEST
+The present meta-analysis demonstrates that methylated SOX17, CDO1, ZFP42, TAC1, FAM19A4, FHIT, MGMT, p16, and RASSF1A are potential superior biomarkers for the screening and auxiliary detection of lung cancer.
+TEST
+Differences in FHIT expression levels between AC, LCC and SCC indicated the usefulness of this gene as a diagnostic marker for NSCLC subtype differentiation. FHIT promoter hypermethylation both in cancer and control tissue indicated the presence of epigenetic alterations in early stage of NSCLC development. Differences in gene promoter methylation between cancer patients with and without node infiltration might be considered as a prognostic marker.
+TEST
+c-erbB-2 overexpression detected using immunohistochemistry is observed in 17.9% of patients with SCLC and has statistically significant prognostic value. Our findings suggest that c-erbB-2 may be a potential target for site-specific immunotherapy in SCLC.
+TEST
+In conclusion, our study showed that combination of BCL2 inhibitor with HSP90 inhibitor increased activity in in vitro and in vivo study in only BCL-2 expressing SCLC compared to either single BCL2 inhibitor or HSP inhibitor. The enhanced activity might be led by blocking several apoptotic pathways simultaneously rather than a specific pathway.
+TEST
+CONCLUSION: These findings provide a novel mechanism indicating the inhibition of TOPO II activity and NF-kB signaling by NFD, leading to DNA damage and apoptosis of NSCLC tumor cells.
+TEST
+In this study, we demonstrated for the first time that co-targeting of N-Myc and Bcl-2 resulted in marked synergistic antitumor effects in MYCN-amplified SCLC. Our study demonstrates a new JQ-1/ABT-263 co-targeting strategy that can be employed for MYCN-amplified SCLC with high efficacy.
+TEST
+In addition to directly suppressing apoptosis, BCL-2 family proteins confer long-term survival benefits to irradiated cancer cells associated with utilization of error-prone repair pathways. Targeting BCL-xL and MCL-1 is an attractive strategy for improving lung cancer radiotherapy.
+TEST
+Excision repair cross-complementary 1 (ERCC1) overexpression in lung cancer cells is strongly correlated with its resistance to platinum-based chemotherapy. Overexpression of thymidine phosphorylase (TP) reverts platinum-induced cancer cell death. We concluded that enhancement of the cytotoxicity to CDDP by coadminstration with DMC was mediated by down-regulation of the expression of TP and ERCC1, regulated by PI3K-Akt-Snail pathway inactivation.
+TEST
+Overall, our study indicated that DA suppressed lung cancer cells proliferation via inducing cell-cycle arrest and enhancing caspase-dependent apoptosis, at least partly, through ROS-mediated PI3K/AKT, MAPK and NF-kB signaling pathways.
+TEST
+SCU can suppress proliferation and promote apoptosis in A549 cells through AKT/mTOR/4EBP1 and STAT3 pathways. This suggests that SCU may be developed into a promising antitumor agent for treating NSCLC.
+TEST
+We suggest that the prognostic value of SHP2 could reflect the nuclear localization of SHP2 and its interaction with nuclear YAP1, which led to subsequent upregulation of cyclin D1 and c-Myc mRNA expression via activation of the Wnt/ -catenin signaling pathway.
+TEST
+Nobiletin (NBT) can sensitize ADR-induced cytotoxicity against A549/ADR cells by inhibiting MRP1 expression, indicating that NBT could serve as an effective adjuvant agent for ADR-based chemotherapy in lung cancer.
+TEST
+miR-140-3p negatively affected the tumorigenesis of SqCLC by down-regulating the expression of BRD9, an oncogene in SqCLC. Inhibition of BRD9 repressed SqCLC tumorigenesis by regulating c-myc expression. Meanwhile, BRD9 expression is up-regulated and negatively correlated with miR-140-3p in clinical samples; a meta-analysis of survival data indicates that SqCLC patients with high levels of BRD9 in their tumors have a worse prognosis. 
+TEST
+These results suggested that overexpression of PICART1 suppressed cell growth and invasion partly through regulating AKT signaling pathway in NSCLC.
+TEST
+our findings indicated that BIN1 restoration in NSCLC could reverse PD-L1-mediated immune escape by inactivating the c-MYC and EGFR/mitogen-activated protein kinase pathways.
+TEST
+Therefore, the AKT inhibitor perifosine might potentially overcome the resistance to cisplatin-based chemotherapy in NSCLC patients with low-FHIT tumors, and consequently improve the outcome.
+TEST
+Finally, we demonstrate that the expression pattern of FHIT and miR-30c is inversely correlated with that of MTDH and HMGA2 in normal tissue, non-metastatic and metastatic tumors, serving as a potential biomarker for metastasis in lung cancer.
+TEST
+Our results showed that 7 hypermethylated genes (including CDKN2A, RASSF1, MGMT, RARB, DAPK, WIF1 and FHIT) were significantly associated with the smoking behavior in NSCLC patients. The further population-based subgroup meta-analyses showed that the CDKN2A hypermethylation was significantly associated with cigarette smoking in Japanese, Chinese and Americans. In contrast, a significant association of RARB hypermethylation and smoking behavior was only detected in Chinese but not in Japanese. The genes with altered DNA methylation were likely to be potentially useful biomarkers in the early diagnosis of NSCLC.
+TEST
+The present study demonstrated that FHIT loss may be important in the occurrence of lung cancer, particularly in lung SCCs. FHIT loss may therefore be used as an early indicator for lung cancer, particularly for patients with a history of smoking. HPV infection in lung tumorigenesis may, at least in part, be mediated through FHIT loss. FHIT loss and p53 mutation may coordinate together in the development of HPV-associated lung cancer, and accelerate the occurrence and development of lung cancer.
+TEST
+The results of this meta-analysis suggest that FHIT hypermethylation is associated with an increased risk and worsen survival in NSCLC patients. FHIT hypermethylation, which induces the inactivation of FHIT gene, plays an important role in the carcinogenesis and clinical outcome and may serve as a potential drug target of NSCLC.
+TEST
+The present study provides strong evidence that the bcl-2 gene has a suppressive function over genes involved in both angiogenesis (VEGF and TP) and cell migration (c-erbB-2) in NSCLC. TP and c-erbB-2 proteins are significantly, and often simultaneously, expressed in bcl-2 negative cases. However, expression of the c-erbB-2 abolishes the TP-related angiogenic activity. Whether this is a result of a direct activity of the c-erbB-2 protein or a consequence of a c-erbB-2-related immune response remains to be further investigated.
+TEST
+ARHGAP30 suppressed lung cancer cell proliferation, migration, and invasion through inhibition of the Wnt/b-catenin signaling pathway.
+TEST
+Overexpression of MYC could reverse the inhibition of MYC targets by RIF1 knockdown. Taken together, these data revealed that RIF1 played an important role in regulating MYC and MYC-activated genes, which in turn contributes to cellular response to cisplatin and NSCLC patients' response to platinum-based chemotherapy. RIF1 might serve as a novel biomarker for predicting platinum-based chemo-sensitivity and the prognosis of NSCLC patients, so as to guide the chemotherapy regimen adjustment for individual patient with NSCLC and improve their clinical outcomes.
+TEST
+We showed that curcumin inhibits NSCLC proliferation via the Wnt/b-catenin pathway.
+TEST
+FLVCR1-AS1 silencing inhibited the proliferation, migration, and invasion of lung cancer cells by inhibiting the activity of the Wnt/b-catenin signaling pathway.
+TEST
+This study demonstrates that SOS1 mutations found in lung adenocarcinoma are oncogenic and that MEK inhibition may be a therapeutic avenue for the treatment of SOS1-mutant cancers.
+TEST
+This study showed that LPCAT1 works as a regulator of cell metastasis and may serve as a novel therapeutic target for BM in lung adenocarcinoma.
+TEST
+Our work demonstrates a tumor suppressive role of SIRT1 in the development of K-RAS-driven lung adenocarcinomas in mice and humans, suggesting that the SIRT1-K-RAS axis could be a therapeutic target for NSCLCs.
+TEST
+Extended Dex treatment induces irreversible cell cycle blockade and a senescence phenotype through chronic activation of the p27Kip1 gene in GR overexpressing lung tumor cell populations and hence could improve outcome of surgery/pemetrexed chemotherapy and sensitize tumors to immunotherapy.
+TEST
+p14(ARF) expression was significantly associated with the risk of lung cancer. In addition, the data of the meta-analysis showed that there was a significant correlation between p14(ARF) expression and the TNM-stage of lung cancer in Chinese population.
+TEST
+Patients with LCNEC tumors that carry a wild-type RB1 gene or express the RB1 protein do better with NSCLC-GEM/TAX treatment than with SCLC-PE chemotherapy. However, no difference was observed for RB1 mutated or with lost protein expression.
+TEST
+Decreased expression of P16 and CDH1 and increased expression of LUNX tumor genes were noted at the center of anthracotic lesions. Significant increase in expression of LUNX gene in NSCLC indicates an association between anthracosis and NSCLC, according to which, anthracotic patients may carry a high risk for NSCLC.
+TEST
+In conclusion, in the appropriate morphological context p16 represents a useful supplementary marker for diagnosis of SCLC, even in cases where only cytological material is available.
+TEST
+The low expression of p16 in NSCLC tissues with squamous cell carcinomas,low differentiation,lymph node metastasis and phase - ,which may prompt the deactivation and cause further progression of NSCLC,5-Aza-CdR could induce the expression of p16 protein and non-methylated products in A549 cells.
+TEST
+These data showed that the membrane-bound CD40L mutant may promote cellular senescence and initiate the SASP of NSCLC cells in an NF-kB-dependent manner. Therefore, CD40L-M-induced senescence may be a potential approach to protect against lung adenocarcinoma.
+TEST
+We found that flavopiridol and dinaciclib induced cytotoxicity by enhancing apoptosis in CDKN2A-defective SqCLC cells, and that epithelial to mesenchymal transition (EMT) decreased and autophagy increased during this process. In addition, we found that autophagy had a cytoprotective role.
+TEST
+Based on this study, we propose the following algorithm, which, in the appropriate clinical and histological context, may be useful in establishing the correct diagnosis of SCLC: First, INSM1 detection is performed, and if the result is negative, CD56 is added, followed successively by p16 and TTF1, if all previously applied markers are negative. This approach should detect most, if not all, SCLC cases, while successively trading specificity for sensitivity.
+TEST
+In conclusion, anti-p16a IgG may be suitable for use as a prognostic biomarker for NSCLC.
+TEST
+Conclusion: This is the first report of immunocytochemistry of a panel of markers on cells exfoliated in sputum samples which suggests that analysis of immunocytochemical markers in sputum samples can be attempted as a cost-effective and reliable predictor of prognosis and survival. Accumulation of mutated p53, overexpression of galectin-3, and lower expression of p16 and EGFR proteins were found to predict poor prognosis for lung cancer.
+TEST
+Finally, we showed that the high expression of HOTAIR was associated with resistance to gefitinib through the dysregulated cell cycle. In conclusion, HOTAIR could be an ideal indicator of cell cycle dysregulation and guide the use of cell cycle inhibitors.
+TEST
+In conclusion, the LAB-ddPCR ctDNA test offers a feasible and flexible option for the rapid and accurate detection of the T790M secondary mutation, which is helpful in dynamically monitoring drug response and disease progression throughout the therapeutic regimen.
+TEST
+NTRK fusions occur in NSCLCs across genders, ages, smoking histories, and histologies. Given the potent clinical activity of TRK inhibitors, we advocate that all NSCLCs be screened for NTRK fusions using a multiplexed NGS-based fusion assay.
+TEST
+These data suggest that IL-17A, E, F and their receptors IL-17RA, RB, RC may be involved in the pathogenesis of NSCLC. Further understanding of the relationship between the IL-17/IL-17R axis and the tumour inflammatory microenvironment may reveal new therapeutic targets.
+TEST
+Our data imply that inactivation of TP53/RB1 function is a possible early event in the histogenesis of synchronous and metachronous SCLC/NSCLC. Moreover, the non-adenocarcinoma (SCLC) component might arise from the adenocarcinoma (NSCLC) component through a mechanism that involves the activation of the ASCL1 and PI3K/AKT1 signaling pathways.
+TEST
+Multiple lines of alk inhibition are now recommended for patients with advanced nsclc with an ALK rearrangement.
+TEST
+Combining CDK4/6 inhibition with taxanes enhances anti-tumor efficacy by sustained impairment of pRB-E2F pathways in squamous cell lung cancer.
+TEST
+Hence the present study aids in elucidating the role of MAP kinases in regulating the AP-1 subunits and their implications on target genes that are involved regulation of various cellular processes. Further, it would help in understanding the mechanistic aspects of the diseased state which may facilitate in designing of new therapeutic modalities that could help in cancer management.
+TEST
+Retinoblastoma mutation predicts poor outcomes in advanced non small cell lung cancer.
+TEST
+We found that melatonin downregulated EMT by inhibiting Twist/Twist1 (twist family bHLH transcription factor 1) expression. This effect was mediated by MT1 receptor, PLC, p38/ERK and b-catenin signaling cascades. Twist expression was positively correlated with tumor stage and negatively correlated with MT1 expression in lung cancer specimens. Furthermore, melatonin inhibited EMT marker expression and lung cancer metastasis to liver in vivo Finally, melatonin shows promise in the treatment of lung cancer metastasis and deserves further study.
+TEST
+ING5 inhibits lung cancer invasion and EMT by inhibiting the WNT/b-catenin pathway.
+TEST
+we identified ADAM19 as a new biomarker of in vitro and in vivo EMT and we validated this biological new marker in a cohort of non-small lung carcinomas.
+TEST
+Programmed death-ligand 1 (PD-L1) expression on lung cancer cells is a prognostic marker and a predictive biomarker for response to immunotherapy. The study demonstrated that the clinical characteristics of patients with PD-L1 expression may differ from those of patients with PD-L2 expression, and that both might contribute to poor prognoses. The potential role of PD-L2 expression as a predictive biomarker for response to immunotherapy should be investigated in future studies.
+TEST
+Taken together, the two Ehm2 variants appear to be differentially expressed in lung adenocarcinoma. Ehm2/1 may function as a putative tumor suppressor in the disease progression of lung adenocarcinoma, while Ehm2/2 may have an opposite function.
+TEST
+PADI4 -mediated EMT transition is proposed to represent a novel mechanism underlying the epigenetic and phenotypic alterations in lung cancer cells, and the PADI4 associated signaling pathway may be a therapeutic target for treating lung cancer in a clinical setting.
+TEST
+The lncRNA HOTTIP can be considered a prognostic biomarker in early-stage NSCLC.
+TEST
+The early increase in inflammatory cytokines with PD1-I was indicated to be predictive for the efficacy in patients with non-small cell lung cancer.
+TEST
+Biomarkers, such as PD-L1 and the tumor mutation burden (TMB), enable better selection of patients who should benefit the most from first-line ICI use.
+TEST
+these data indicate the importance of CDH2 in angiogenesis and highlight its potential both for antiangiogenic therapy and as a candidate prognostic marker for ADC.
+TEST
+LIPI was an independent prognostic factor of chemotherapy for adenocarcinoma with wild-type EGFR and of EGFR-TKI for NSCLC harboring mutant EGFR. Thus, LIPI was not a specific biomarker for ICI therapy, but a useful biomarker for chemotherapy and EGFR-TKI therapy in specific subsets of NSCLC.
+TEST
+High GRIm-Score was an independent prognostic biomarker of OS of first-line cytotoxic chemotherapy for wild-type EGFR adenocarcinoma and of PFS of first- or second-generation EGFR-TKI for EGFR-mutant NSCLC. Therefore, GRIm-Score is not only a specific selection marker for experimental immunotherapy trials, but may also be a promising and useful pretreatment prognostic maker for specific NSCLC subsets in the real-world practice.
+TEST
+Radiotherapy enhances responses of lung cancer to CTLA-4 blockade. The report provides important human qualification of pre-clinical mechanistic insights indicating that abscopal responses can be generated with optimised radiotherapy fractionation schedules and anti-CTLA-4 inhibition. Additionally, an intriguing mechanism by which radiation can be immunogenic is described, namely radiation-induced transcriptional upregulation of neo-antigens.
+TEST
+Our results indicated that SJZ enhanced the anti-lung cancer effects of gefitinib via the key targets ABCG2, ABCC1, ABAT, GSR, CYP1A2, ALOX5, CYP3A4, PLA2G1B and PLA2G2A and the key metabolites 2-oxoglutarate, taurocholic acid, oxidized glutathione and linoleic acid. This work illustrated the modulatory properties of SJZ, which enhanced the anticancer effects of gefitinib, using metabolomics and network pharmacology analyses, and provided insights into underlying the mechanism the active ingredients of SJZfor the treatment of lung cancer in combination with gefitinib.
+TEST
+Taken together, our study indicate variable expression and clinical role of B7-family ligands in SCLC with predominant expression of the candidate target B7-H3 and the presence of a limited cytotoxic anti-tumor immune response. These results support the evaluation of B7-H3 blockers and/or pro-inflammatory therapies in SCLC.
+TEST
+p53 loss does not permit escape from BrafV600E-induced senescence in a mouse model of lung cancer.
+TEST
+A Combination RNAi-Chemotherapy Layer-by-Layer Nanoparticle for Systemic Targeting of KRAS/P53 with Cisplatin to Treat Non-Small Cell Lung Cancer.The combination RNA-chemotherapy in an LbL formulation provides an enhanced treatment efficacy against NSCLC, indicating promising potential in clinic.
+TEST
+The transcript level of PRAL was decreased in lung cancer in vivo and in vitro. Overexpression of PRAL inhibited cell proliferation by upregulating the expression of P53. Our results indicate that PRAL might be a tumor suppressor in lung cancer and thus provides novel clues for the diagnosis and treatment for lung cancer in clinical practice.
+TEST
+Our findings provide us with new insights regarding the mechanism by which p53 mediates A549 apoptosis and may cast light on the development of more efficient p53-based strategies for treating lung cancer.
+TEST
+PD-L1 overexpression is an unfavorable prognostic marker, while the high CD8 + TILs is a good prognostic marker in non-small cell lung cancer. PD-L1 immunohistochemical assessment may be used for the selection of patients legible for treatment with anti-PD-L1 therapy.
+TEST
+This meta-analysis strongly suggests that p53 mutation is associated with smoking-induced lung cancer. Smokers with lung cancer had a higher risk for p53 mutation than non-smokers.
+TEST
+our results suggest that the combination of low dose cisplatin and scriptaid is cytotoxic to NSCLC lines, can overcome hypoxia induced resistance and mutant p53- induced instability often associated with this cancer, and has the potential to be an effective therapeutic modality.
+TEST
+Our data also reveals that lung cancer patients with ECOG scores between 0 and 1 and carrying the Pro/Pro had better chances of survival. p53 codon 72 polymorphism could play a role as a prognostic marker in lung cancer patients.
+TEST
+Blood E2F3 mRNA is a sensitive diagnostic marker in lung cancer; moreover, it is a promising prognostic marker capable of efficiently discriminating early from late stages of the disease.
+TEST
+MiR-661 promotes metastasis of NSCLC through RB/E2F1 signaling and EMT events, thus may serves as a negative prognostic factor and possible target for treatment of NSCLC patient.
+TEST
+The present meta.analysis provides convincing evidence that the promoter methylation ratio of RASSF1A and p16 is associated with clinicopathological features in lung cancers, and could be used as effective biomarkers in early diagnosis in lung cancers.
+TEST
+The use of the methylation status of P16, RASSF1A, APC, RARβ, DAPK, CDH13, and MGMT could become a promising and powerful biomarker for the detection and screening of NSCLC in blood in clinical settings. Further large-scale studies with large sample sizes are necessary to confirm our findings in the future.

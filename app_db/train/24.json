@@ -1,0 +1,37 @@
+{
+    "text": "Hypomethylation of L1RE1 is frequent in tumors compared to benign controls and associates with higher grade, whereas increasing methylation of RARB is an independent marker for tumors and higher grade in lung cancer.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 19, 
+                "end": 24
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "gene", 
+            "span": {
+                "begin": 143, 
+                "end": 147
+            }
+        }, 
+        {
+            "id": "T3", 
+            "obj": "disease", 
+            "span": {
+                "begin": 204, 
+                "end": 215
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "associated", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

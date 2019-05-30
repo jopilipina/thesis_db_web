@@ -1,0 +1,1 @@
+{"text": "This meta-analysis strongly suggests that p53 mutation is associated with smoking-induced lung cancer. Smokers with lung cancer had a higher risk for p53 mutation than non-smokers.", "denotations": [{"id": "T1", "obj": "gene", "span": {"begin": 42, "end": 45}}, {"id": "T2", "obj": "disease", "span": {"begin": 90, "end": 101}}]}

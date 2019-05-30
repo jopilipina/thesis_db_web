@@ -1,0 +1,42 @@
+table {
+  font-size: 15px;
+}
+
+table td {
+  word-break: break-word;
+}
+
+tbody {
+  color: #495057;
+}
+
+h5 {
+  padding-top: 30px;
+  text-align: center;
+  color: #495057;
+}
+
+a {
+  color: cornflowerblue;
+}
+
+.container.home {
+  padding-top: 200px;
+  text-align: center;
+}
+
+.container.search {
+  display: inline-block;
+  /* width: 342px; */
+  width: 350px;
+  padding-top: 25px;
+}
+
+.container.list_all {
+  text-align: center;
+  display: inline-block;
+}
+
+.hidden {
+  display: none !important;
+}

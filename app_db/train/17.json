@@ -1,0 +1,43 @@
+{
+    "text": "The determination of pERK protein levels and nuclear p53 levels in the adequate histologic context may predict the outcome of early stage NSCLC patients, and may offer a therapeutic opportunity to enhance survival of these patients.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 21, 
+                "end": 25
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "gene", 
+            "span": {
+                "begin": 53, 
+                "end": 56
+            }
+        }, 
+        {
+            "id": "T3", 
+            "obj": "disease", 
+            "span": {
+                "begin": 138, 
+                "end": 143
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "prognostic", 
+            "subj": "T1", 
+            "obj": "T3"
+        },
+        {
+            "id": "R2", 
+            "pred": "prognostic", 
+            "subj": "T2", 
+            "obj": "T3"
+        }
+    ]
+}

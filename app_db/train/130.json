@@ -1,0 +1,29 @@
+{
+    "text": "MiR-661 promotes metastasis of NSCLC through RB/E2F1 signaling and EMT events, thus may serves as a negative prognostic factor and possible target for treatment of NSCLC patient.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 0, 
+                "end": 7
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 31, 
+                "end": 36
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "prognostic", 
+            "subj": "T2", 
+            "obj": "T1"
+        }
+    ]
+}

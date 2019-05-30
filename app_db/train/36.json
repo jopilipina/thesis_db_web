@@ -1,0 +1,29 @@
+{
+    "text": "In addition to directly suppressing apoptosis, BCL-2 family proteins confer long-term survival benefits to irradiated cancer cells associated with utilization of error-prone repair pathways.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "BCL-2", 
+            "span": {
+                "begin": 47, 
+                "end": 52
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 118, 
+                "end": 124
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "prognostic", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

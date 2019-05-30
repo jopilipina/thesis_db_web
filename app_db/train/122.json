@@ -1,0 +1,43 @@
+{
+    "text": "PD-L1 overexpression is an unfavorable prognostic marker, while the high CD8 + TILs is a good prognostic marker in non-small cell lung cancer.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 0, 
+                "end": 4
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 115, 
+                "end": 141
+            }
+        }, 
+        {
+            "id": "T3", 
+            "obj": "gene", 
+            "span": {
+                "begin": 73, 
+                "end": 76
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "prognostic", 
+            "subj": "T1", 
+            "obj": "T2"
+        },
+        {
+            "id": "R1", 
+            "pred": "prognostic", 
+            "subj": "T3", 
+            "obj": "T2"
+        }
+    ]
+}

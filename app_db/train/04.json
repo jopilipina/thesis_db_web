@@ -1,0 +1,28 @@
+{
+    "text": "Expression of hUTP14a was up-regulated in NSCLC tissues and was correlated with pTNM stage of SCC, suggesting that hUTP14a might possess a potential as a candidate marker for the early diagnosis screening of NSCLC.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 14, 
+                "end": 20
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 42, 
+                "end": 46
+            }
+        }
+    ],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"diagnostic",
+            "subj":"T1", 
+          "obj":"T2"}
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "text": "We found that melatonin downregulated EMT by inhibiting Twist/Twist1 (twist family bHLH transcription factor 1) expression in lung cancer.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 56, 
+                "end": 68
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 126, 
+                "end": 137
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "associated", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

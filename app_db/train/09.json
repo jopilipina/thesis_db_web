@@ -1,0 +1,28 @@
+{
+    "text": "Our study demonstrates that LINC00342 is involved in the development, and LINC00342 may be a potential diagnostic factor and a target for new therapies for future patients with NSCLC.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 28, 
+                "end": 36
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 177, 
+                "end": 181
+            }
+        }
+    ],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"diagnostic",
+            "subj":"T1", 
+          "obj":"T2"}
+    ]
+}

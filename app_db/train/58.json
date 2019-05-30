@@ -1,0 +1,29 @@
+{
+    "text": "The results of this meta-analysis suggest that FHIT hypermethylation is associated with an increased risk and worsen survival in NSCLC patients.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 47, 
+                "end": 51
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 129, 
+                "end": 134
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "prognostic", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

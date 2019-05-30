@@ -1,0 +1,37 @@
+{
+    "text": "Overexpression of MYC could reverse the inhibition of MYC targets by RIF1 knockdown in NSCLC", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 18, 
+                "end": 21
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "gene", 
+            "span": {
+                "begin": 69, 
+                "end": 73
+            }
+        }, 
+        {
+            "id": "T3", 
+            "obj": "disease", 
+            "span": {
+                "begin": 87, 
+                "end": 92
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "associated", 
+            "subj": "T1", 
+            "obj": "T3"
+        }
+    ]
+}

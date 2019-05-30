@@ -1,0 +1,29 @@
+{
+    "text": "Therefore, CD40L-M-induced senescence may be a potential approach to protect against lung adenocarcinoma.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 11, 
+                "end": 16
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 85, 
+                "end": 104
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "therapeutic", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

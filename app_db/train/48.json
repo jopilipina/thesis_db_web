@@ -1,0 +1,29 @@
+{
+    "text": "These results suggested that overexpression of PICART1 suppressed cell growth and invasion partly through regulating AKT signaling pathway in NSCLC.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 47, 
+                "end": 54
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 142, 
+                "end": 147
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "therapeutic", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "text": "FLVCR1-AS1 silencing inhibited the proliferation, migration, and invasion of lung cancer cells by inhibiting the activity of the Wnt/b-catenin signaling pathway.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "Fgene", 
+            "span": {
+                "begin": 0, 
+                "end": 10
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 77, 
+                "end": 88
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "therapeutic", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

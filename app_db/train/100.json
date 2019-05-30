@@ -1,0 +1,29 @@
+{
+    "text": "Programmed death-ligand 1 (PD-L1) expression on lung cancer cells is a prognostic marker and a predictive biomarker for response to immunotherapy.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 27, 
+                "end": 32
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 48, 
+                "end": 59
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "prognostic", 
+            "subj": "T2", 
+            "obj": "T1"
+        }
+    ]
+}

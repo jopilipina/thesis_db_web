@@ -1,0 +1,29 @@
+{
+    "text": "Overexpression of thymidine phosphorylase (TP) reverts platinum-induced cancer cell death.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 43, 
+                "end": 45
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "cancer", 
+            "span": {
+                "begin": 72, 
+                "end": 78
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "prognostic", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

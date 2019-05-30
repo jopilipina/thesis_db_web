@@ -1,0 +1,29 @@
+{
+    "text": "The present study demonstrated that FHIT loss may be important in the occurrence of lung cancer, particularly in lung SCCs.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 36, 
+                "end": 39
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 118, 
+                "end": 120
+            }
+        }
+    ],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"diagnostic",
+            "subj":"T1", 
+            "obj":"T2"
+        }
+    ]
+}

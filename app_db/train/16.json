@@ -1,0 +1,51 @@
+{
+    "text": "We propose a role as early prognostic biomarkers for pERK protein levels in adenocarcinoma, and for nuclear p53 levels in squamous cell lung carcinoma.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 53, 
+                "end": 57
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 76, 
+                "end": 90
+            }
+        }, 
+        {
+            "id": "T3", 
+            "obj": "gene", 
+            "span": {
+                "begin": 108, 
+                "end": 111
+            }
+        }, 
+        {
+            "id": "T4", 
+            "obj": "disease", 
+            "span": {
+                "begin": 122, 
+                "end": 150
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "prognostic", 
+            "subj": "T1", 
+            "obj": "T2"
+        },
+        {
+            "id": "R2", 
+            "pred": "prognostic", 
+            "subj": "T3", 
+            "obj": "T4"
+        }
+    ]
+}

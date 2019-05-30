@@ -1,0 +1,29 @@
+{
+    "text": "In addition, the data of the meta-analysis showed that there was a significant correlation between p14(ARF) expression and the TNM-stage of lung cancer in Chinese population.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 99, 
+                "end": 102
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 140, 
+                "end": 151
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "associated", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

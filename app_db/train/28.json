@@ -1,0 +1,28 @@
+{
+    "text": "Differences in FHIT expression levels between AC, LCC and SCC indicated the usefulness of this gene as a diagnostic marker for NSCLC subtype differentiation.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 15, 
+                "end": 18
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 127, 
+                "end": 131
+            }
+        }
+    ],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"diagnostic",
+            "subj":"T1", 
+            "obj":"T2"}
+    ]
+}

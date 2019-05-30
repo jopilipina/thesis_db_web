@@ -1,0 +1,29 @@
+{
+    "text": "Nobiletin (NBT) can sensitize ADR-induced cytotoxicity against A549/ADR cells by inhibiting MRP1 expression, indicating that NBT could serve as an effective adjuvant agent for ADR-based chemotherapy in lung cancer.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 92, 
+                "end": 96
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 202, 
+                "end": 213
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "therapeutic", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

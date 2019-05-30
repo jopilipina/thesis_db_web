@@ -1,0 +1,29 @@
+{
+    "text": "Excision repair cross-complementary 1 (ERCC1) overexpression in lung cancer cells is strongly correlated with its resistance to platinum-based chemotherapy.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 39, 
+                "end": 44
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 64, 
+                "end": 75
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "therapeutic", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

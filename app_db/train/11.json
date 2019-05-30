@@ -1,0 +1,28 @@
+{
+    "text": "IL-6 may be used as a tumor marker for cancer diagnosis.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 0, 
+                "end": 3
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 39, 
+                "end": 44
+            }
+        }
+    ],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"diagnostic",
+            "subj":"T1", 
+          "obj":"T2"}
+    ]
+}

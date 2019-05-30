@@ -1,0 +1,141 @@
+{
+    "text": "Our results indicated that SJZ enhanced the anti-lung cancer effects of gefitinib via the key targets ABCG2, ABCC1, ABAT, GSR, CYP1A2, ALOX5, CYP3A4, PLA2G1B and PLA2G2A and the key metabolites 2-oxoglutarate, taurocholic acid, oxidized glutathione and linoleic acid.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "disease", 
+            "span": {
+                "begin": 49, 
+                "end": 60
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "gene", 
+            "span": {
+                "begin": 102, 
+                "end": 107
+            }
+        }, 
+        {
+            "id": "T3", 
+            "obj": "gene", 
+            "span": {
+                "begin": 109, 
+                "end": 114
+            }
+        }, 
+        {
+            "id": "T4", 
+            "obj": "gene", 
+            "span": {
+                "begin": 116, 
+                "end": 120
+            }
+        }, 
+        {
+            "id": "T5", 
+            "obj": "gene", 
+            "span": {
+                "begin": 122, 
+                "end": 125
+            }
+        }, 
+        {
+            "id": "T6", 
+            "obj": "gene", 
+            "span": {
+                "begin": 127, 
+                "end": 133
+            }
+        }, 
+        {
+            "id": "T7", 
+            "obj": "gene", 
+            "span": {
+                "begin": 135, 
+                "end": 140
+            }
+        }, 
+        {
+            "id": "T8", 
+            "obj": "gene", 
+            "span": {
+                "begin": 142, 
+                "end": 148
+            }
+        }, 
+        {
+            "id": "T9", 
+            "obj": "gene", 
+            "span": {
+                "begin": 150, 
+                "end": 157
+            }
+        }, 
+        {
+            "id": "T10", 
+            "obj": "gene", 
+            "span": {
+                "begin": 162, 
+                "end": 169
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "therapeutic", 
+            "subj": "T2", 
+            "obj": "T1"
+        },
+        {
+            "id": "R2", 
+            "pred": "therapeutic", 
+            "subj": "T3", 
+            "obj": "T1"
+        },
+        {
+            "id": "R3", 
+            "pred": "therapeutic", 
+            "subj": "T4", 
+            "obj": "T1"
+        },
+        {
+            "id": "R4", 
+            "pred": "therapeutic", 
+            "subj": "T5", 
+            "obj": "T1"
+        },
+        {
+            "id": "R5", 
+            "pred": "therapeutic", 
+            "subj": "T6", 
+            "obj": "T1"
+        },
+        {
+            "id": "R6", 
+            "pred": "therapeutic", 
+            "subj": "T7", 
+            "obj": "T1"
+        },
+        {
+            "id": "R7", 
+            "pred": "therapeutic", 
+            "subj": "T8", 
+            "obj": "T1"
+        },
+        {
+            "id": "R8", 
+            "pred": "therapeutic", 
+            "subj": "T9", 
+            "obj": "T1"
+        },
+        {
+            "id": "R9", 
+            "pred": "therapeutic", 
+            "subj": "T10", 
+            "obj": "T1"
+        }
+    ]
+}

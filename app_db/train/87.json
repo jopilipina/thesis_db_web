@@ -1,0 +1,29 @@
+{
+    "text": "In conclusion, the LAB-ddPCR ctDNA test offers a feasible and flexible option for the rapid and accurate detection of the T790M secondary mutation, which is helpful in dynamically monitoring drug response and disease progression throughout the therapeutic regimen in NSCLC", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 122, 
+                "end": 127
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 267, 
+                "end": 272
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "therapeutic", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

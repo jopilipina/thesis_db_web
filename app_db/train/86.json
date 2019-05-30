@@ -1,0 +1,29 @@
+{
+    "text": "In conclusion, HOTAIR could be an ideal indicator of cell cycle dysregulation and guide the use of cell cycle inhibitors in lung cancer.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 15, 
+                "end": 20
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 124, 
+                "end": 134
+            }
+        }
+    ],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"predictive",
+            "subj":"T1", 
+            "obj":"T2"
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "text": "The present meta-analysis demonstrates that methylated SOX17,CDO1,ZFP42,TAC1,FAM19A4,FHIT,MGMT,p16, and RASSF1A are potential superior biomarkers for the screening and auxiliary detection of lung cancer.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 55, 
+                "end": 59
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "gene", 
+            "span": {
+                "begin": 61, 
+                "end": 64
+            }
+        }, 
+        {
+            "id": "T3", 
+            "obj": "gene", 
+            "span": {
+                "begin": 67, 
+                "end": 70
+            }
+        }, 
+        {
+            "id": "T4", 
+            "obj": "gene", 
+            "span": {
+                "begin": 73, 
+                "end": 74
+            }
+        }, 
+        {
+            "id": "T5", 
+            "obj": "gene", 
+            "span": {
+                "begin": 77, 
+                "end": 83
+            }
+        }, 
+        {
+            "id": "T6", 
+            "obj": "gene", 
+            "span": {
+                "begin": 85, 
+                "end": 88
+            }
+        }, 
+        {
+            "id": "T7", 
+            "obj": "gene", 
+            "span": {
+                "begin": 90, 
+                "end": 93
+            }
+        }, 
+        {
+            "id": "T8", 
+            "obj": "gene", 
+            "span": {
+                "begin": 95, 
+                "end": 97
+            }
+        }, 
+        {
+            "id": "T9", 
+            "obj": "gene", 
+            "span": {
+                "begin": 104, 
+                "end": 110
+            }
+        }, 
+        {
+            "id": "T10", 
+            "obj": "disease", 
+            "span": {
+                "begin": 191, 
+                "end": 201
+            }
+        }
+    ],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"diagnostic",
+            "subj":"T1", 
+            "obj":"T10"
+        },
+        {
+            "id":"R2",
+            "pred":"diagnostic",
+            "subj":"T2", 
+            "obj":"T10"
+        },
+        {
+            "id":"R3",
+            "pred":"diagnostic",
+            "subj":"T3", 
+            "obj":"T10"
+        },
+        {
+            "id":"R4",
+            "pred":"diagnostic",
+            "subj":"T4", 
+            "obj":"T10"
+        },
+        {
+            "id":"R5",
+            "pred":"diagnostic",
+            "subj":"T5", 
+            "obj":"T10"
+        },
+        {
+            "id":"R6",
+            "pred":"diagnostic",
+            "subj":"T6", 
+            "obj":"T10"
+        },
+        {
+            "id":"R7",
+            "pred":"diagnostic",
+            "subj":"T7", 
+            "obj":"T10"
+        },
+        {
+            "id":"R8",
+            "pred":"diagnostic",
+            "subj":"T8", 
+            "obj":"T10"
+        },
+        {
+            "id":"R9",
+            "pred":"diagnostic",
+            "subj":"T9", 
+            "obj":"T10"
+        }
+    ]
+}

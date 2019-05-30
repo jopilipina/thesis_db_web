@@ -1,0 +1,51 @@
+{
+    "text": "LIPI was an independent prognostic factor of chemotherapy for adenocarcinoma with wild-type EGFR and of EGFR-TKI for NSCLC harboring mutant EGFR.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 0, 
+                "end": 4
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 62, 
+                "end": 76
+            }
+        }, 
+        {
+            "id": "T3", 
+            "obj": "gene", 
+            "span": {
+                "begin": 92, 
+                "end": 96
+            }
+        }, 
+        {
+            "id": "T4", 
+            "obj": "disease", 
+            "span": {
+                "begin": 117, 
+                "end": 122
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "prognostic", 
+            "subj": "T1", 
+            "obj": "T4"
+        },
+        {
+            "id": "R2", 
+            "pred": "prognostic", 
+            "subj": "T3", 
+            "obj": "T4"
+        }
+    ]
+}

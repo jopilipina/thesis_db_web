@@ -1,0 +1,71 @@
+{
+    "text": "Accumulation of mutated p53, overexpression of galectin-3, and lower expression of p16 and EGFR proteins were found to predict poor prognosis for lung cancer.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 24, 
+                "end": 27
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "gene", 
+            "span": {
+                "begin": 47, 
+                "end": 57
+            }
+        }, 
+        {
+            "id": "T3", 
+            "obj": "gene", 
+            "span": {
+                "begin": 83, 
+                "end": 86
+            }
+        }, 
+        {
+            "id": "T4", 
+            "obj": "gene", 
+            "span": {
+                "begin": 91, 
+                "end": 95
+            }
+        }, 
+        {
+            "id": "T5", 
+            "obj": "disease", 
+            "span": {
+                "begin": 146, 
+                "end": 157
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "prognostic", 
+            "subj": "T1", 
+            "obj": "T5"
+        },
+        {
+            "id": "R2", 
+            "pred": "prognostic", 
+            "subj": "T2", 
+            "obj": "T5"
+        },
+        {
+            "id": "R3", 
+            "pred": "prognostic", 
+            "subj": "T3", 
+            "obj": "T5"
+        },
+        {
+            "id": "R4", 
+            "pred": "prognostic", 
+            "subj": "T4", 
+            "obj": "T5"
+        }
+    ]
+}

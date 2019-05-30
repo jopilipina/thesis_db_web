@@ -1,0 +1,28 @@
+{
+    "text": "These findings suggest that the TSC1 gene variant is an important predictive marker for platinum doublet chemotherapy outcomes in NSCLC patients.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 32, 
+                "end": 35
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 130, 
+                "end": 134
+            }
+        }
+    ],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"predictive",
+            "subj":"T1", 
+          "obj":"T2"}
+    ]
+}

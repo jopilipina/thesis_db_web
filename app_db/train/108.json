@@ -1,0 +1,29 @@
+{
+    "text": "these data indicate the importance of CDH2 in angiogenesis and highlight its potential both for antiangiogenic therapy and as a candidate prognostic marker for ADC.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 38, 
+                "end": 42
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 160, 
+                "end": 163
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "prognostic", 
+            "subj": "T2", 
+            "obj": "T1"
+        }
+    ]
+}

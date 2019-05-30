@@ -1,0 +1,29 @@
+{
+    "text": "The expression of p53R2 was inversely associated with the proliferation and progression of LSC, and the results indicated that the high expression of p53R2 was an independent factor for unfavorable prognosis of patients with LSC.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 18, 
+                "end": 23
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 91, 
+                "end": 94
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "prognostic", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

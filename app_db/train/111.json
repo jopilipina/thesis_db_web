@@ -1,0 +1,29 @@
+{
+    "text": "High GRIm-Score was an independent prognostic biomarker of OS of first-line cytotoxic chemotherapy for wild-type EGFR adenocarcinoma and of PFS of first- or second-generation EGFR-TKI for EGFR-mutant NSCLC.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 113, 
+                "end": 117
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 200, 
+                "end": 205
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "prognostic", 
+            "subj": "T2", 
+            "obj": "T1"
+        }
+    ]
+}

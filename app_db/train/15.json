@@ -1,0 +1,29 @@
+{
+    "text": "The tumor's cellularity, the Ki-67 positivity rate and PCNA, together with the clinical stage and the histological differentiation bring extra pieces of useful information in order to anticipate the evolution and the prognosis of lung cancer.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 29, 
+                "end": 34
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 230, 
+                "end": 241
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "prognostic", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

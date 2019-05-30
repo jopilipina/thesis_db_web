@@ -1,0 +1,29 @@
+{
+    "text": "The low expression of p16 in NSCLC tissues with squamous cell carcinomas,low differentiation,lymph node metastasis and phase - ,which may prompt the deactivation and cause further progression of NSCLC,5-Aza-CdR could induce the expression of p16 protein and non-methylated products in A549 cells.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 22, 
+                "end": 25
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 29, 
+                "end": 34
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "associated", 
+            "subj": "T2", 
+            "obj": "T1"
+        }
+    ]
+}

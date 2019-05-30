@@ -1,0 +1,21 @@
+{
+  "text": "For non-small cell lung cancer, these results indicated that UBA2 was a critical cell cycle and proliferation regulator and may be a novel cancer marker in this malignant tumor.", 
+  "denotations": [
+    {
+      "id": "T2", 
+      "obj": "gene", 
+      "span": {
+        "begin": 61, 
+        "end": 65
+      }
+    }, 
+    {
+      "id": "T1", 
+      "obj": "disease", 
+      "span": {
+        "begin": 4, 
+        "end": 30
+      }
+    }
+  ]
+}

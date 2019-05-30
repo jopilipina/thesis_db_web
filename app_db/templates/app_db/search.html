@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Genetic Marker - Effect Database</title>
+  {% load static %}
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/font/css/open-iconic-bootstrap.min.css" integrity="sha256-BJ/G+e+y7bQdrYkS2RBTyNfBHpA9IuGaPmf9htub5MQ=" crossorigin="anonymous" />
+  <link rel="stylesheet" href="{% static 'app_db/css/style.css' %}">
+</head>
+<body>
+
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container">
+      <a class="navbar-brand" href="{% url 'app_db_home' %}"><span class="oi oi-document"></span> Genetic Marker - Effect Database</a>
+      <form method="GET" class="form-inline my-2 my-lg-0" action="{% url 'app_db_search' %}">
+        <input class="form-control mr-sm-2" type="search" name="query" placeholder="Search for genetic marker" aria-label="Search">
+        <button class="btn btn-info my-2 my-sm-0" type="submit">Search</button>
+      </form>
+    </div>
+  </nav>
+
+  <div class="container body">
+    {% if results %}
+      <table class="table table-hover table-borderless">
+        <thead>
+          <tr>
+              <th style="width: 15%">Genetic Marker</th>
+              <th style="width: 15%">Relation Type</th>
+              <th style="width: 15%">Disease</th>
+              <th style="width: 45%">Text</th>
+              <th style="width: 10%">PMID</th>
+          </tr>
+        </thead>
+
+        <tbody>
+          {% for x in results %}
+            <tr>
+              <td>{{ x.gene }}</td>
+              <td>{{ x.relation }}</td>
+              <td>{{ x.disease }}</td>
+              <td>{{ x.full_text }}</td>
+              <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/?term={{ x.pmid }}">{{ x.pmid }}</a></td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    {% else %}
+      <h5>No results found</h5>
+    {% endif %}
+  </div>
+
+</body>
+</html>

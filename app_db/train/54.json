@@ -1,0 +1,29 @@
+{
+    "text": "In contrast, a significant association of RARB hypermethylation and smoking behavior was only detected in Chinese but not in Japanese in NSCLC.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 42, 
+                "end": 46
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 137, 
+                "end": 142
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "associated", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

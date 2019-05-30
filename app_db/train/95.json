@@ -1,0 +1,29 @@
+{
+    "text": "Retinoblastoma mutation predicts poor outcomes in advanced non small cell lung cancer.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 0, 
+                "end": 13
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 59, 
+                "end": 84
+            }
+        }
+    ],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"predictive",
+            "subj":"T1", 
+            "obj":"T2"
+        }
+    ]
+}

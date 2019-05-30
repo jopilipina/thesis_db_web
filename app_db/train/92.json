@@ -1,0 +1,29 @@
+{
+    "text": "Multiple lines of alk inhibition are now recommended for patients with advanced nsclc with an ALK rearrangement.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 18, 
+                "end": 21
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 80, 
+                "end": 85
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "therapeutic", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "text": "c-erbB-2 overexpression detected using immunohistochemistry is observed in 17.9% of patients with SCLC and has statistically significant prognostic value.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 0, 
+                "end": 8
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 98, 
+                "end": 102
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "prognostic", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

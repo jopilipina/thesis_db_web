@@ -1,0 +1,29 @@
+{
+    "text": "RASSF1 hypermethylation was frequent in tumors and most prominent in NET making it an auxiliary marker for separation of NSCLC and NET.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 0, 
+                "end": 6
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 121, 
+                "end": 126
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "associated", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

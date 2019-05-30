@@ -1,0 +1,29 @@
+{
+    "text": "However, expression of the c-erbB-2 abolishes the TP-related angiogenic activity in NSCLC", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 27, 
+                "end": 35
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 84, 
+                "end": 89
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "associated", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

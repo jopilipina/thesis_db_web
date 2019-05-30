@@ -1,0 +1,51 @@
+{
+    "text": "This study demonstrates that SOS1 mutations found in lung adenocarcinoma are oncogenic and that MEK inhibition may be a therapeutic avenue for the treatment of SOS1-mutant cancers.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 29, 
+                "end": 33
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 53, 
+                "end": 72
+            }
+        }, 
+        {
+            "id": "T3", 
+            "obj": "gene", 
+            "span": {
+                "begin": 96, 
+                "end": 99
+            }
+        }, 
+        {
+            "id": "T4", 
+            "obj": "disease", 
+            "span": {
+                "begin": 160, 
+                "end": 179
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "therapeutic", 
+            "subj": "T1", 
+            "obj": "T2"
+        },
+        {
+            "id": "R2", 
+            "pred": "therapeutic", 
+            "subj": "T3", 
+            "obj": "T4"
+        }
+    ]
+}

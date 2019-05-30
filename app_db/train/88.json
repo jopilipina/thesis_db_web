@@ -1,0 +1,99 @@
+{
+    "text": "These data suggest that IL-17A, IL-17E, IL-17F and their receptors IL-17RA, IL-17RB, IL-17RC may be involved in the pathogenesis of NSCLC.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 24, 
+                "end": 30
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "gene", 
+            "span": {
+                "begin": 32, 
+                "end": 38
+            }
+        }, 
+        {
+            "id": "T3", 
+            "obj": "gene", 
+            "span": {
+                "begin": 40, 
+                "end": 46
+            }
+        }, 
+        {
+            "id": "T4", 
+            "obj": "gene", 
+            "span": {
+                "begin": 67, 
+                "end": 74
+            }
+        }, 
+        {
+            "id": "T5", 
+            "obj": "gene", 
+            "span": {
+                "begin": 76, 
+                "end": 83
+            }
+        }, 
+        {
+            "id": "T6", 
+            "obj": "gene", 
+            "span": {
+                "begin": 85, 
+                "end": 92
+            }
+        }, 
+        {
+            "id": "T7", 
+            "obj": "disease", 
+            "span": {
+                "begin": 132, 
+                "end": 137
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "associated", 
+            "subj": "T1", 
+            "obj": "T7"
+        },
+        {
+            "id": "R2", 
+            "pred": "associated", 
+            "subj": "T2", 
+            "obj": "T7"
+        },
+        {
+            "id": "R3", 
+            "pred": "associated", 
+            "subj": "T3", 
+            "obj": "T7"
+        },
+        {
+            "id": "R4", 
+            "pred": "associated", 
+            "subj": "T4", 
+            "obj": "T7"
+        },
+        {
+            "id": "R5", 
+            "pred": "associated", 
+            "subj": "T5", 
+            "obj": "T7"
+        },
+        {
+            "id": "R6", 
+            "pred": "associated", 
+            "subj": "T6", 
+            "obj": "T7"
+        }
+    ]
+}

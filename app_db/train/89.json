@@ -1,0 +1,29 @@
+{
+    "text": "Further understanding of the relationship between the IL-17/IL-17R axis and the tumour inflammatory microenvironment may reveal new therapeutic targets in NSCLC", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 54, 
+                "end": 66
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 155, 
+                "end": 160
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "therapeutic", 
+            "subj": "T1", 
+            "obj": "T2"
+        }
+    ]
+}

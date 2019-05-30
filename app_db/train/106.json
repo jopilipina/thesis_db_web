@@ -1,0 +1,29 @@
+{
+    "text": "The early increase in inflammatory cytokines with PD1-I was indicated to be predictive for the efficacy in patients with non-small cell lung cancer.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 50, 
+                "end": 54
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 121, 
+                "end": 146
+            }
+        }
+    ],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"predictive",
+            "subj":"T2", 
+            "obj":"T1"
+        }
+    ]
+}

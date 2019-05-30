@@ -1,0 +1,28 @@
+{
+    "text": "IL-6 may be a clinically significant predictor and may represent a target for cancer treatment.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 0, 
+                "end": 3
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease",
+            "span": {
+                "begin": 78, 
+                "end": 83
+            }
+        }
+    ],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"predictive",
+            "subj":"T1", 
+          "obj":"T2"}
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "text": "These data showed that the membrane-bound CD40L mutant may promote cellular senescence and initiate the SASP of NSCLC cells in an NF-kB-dependent manner.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 42, 
+                "end": 47
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 112, 
+                "end": 117
+            }
+        }, 
+        {
+            "id": "T3", 
+            "obj": "gene", 
+            "span": {
+                "begin": 130, 
+                "end": 136
+            }
+        }
+    ], 
+    "relations": [
+        {
+            "id": "R1", 
+            "pred": "therapeutic", 
+            "subj": "T2", 
+            "obj": "T1"
+        }
+    ]
+}
